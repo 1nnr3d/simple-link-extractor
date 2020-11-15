@@ -6,6 +6,9 @@
 - or
 * pip install -r requirements.txt
 
+#### Python Version 
+      3.8.5
+
 # Image / Görüntü
 ![Image](https://github.com/1nnr3d/simple-link-extractor/blob/main/image.PNG)
 
